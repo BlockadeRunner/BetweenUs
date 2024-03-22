@@ -1,5 +1,5 @@
 # BetweenUs
-Trying to meet your friends in the middle? With BetweenUs you CAN meet your friends at the optimal location that is equidistant from each of you! 
+Trying to meet your friends in the middle? With BetweenUs you can meet your friends at the optimal location that is equidistant from each of you! 
 
 Download are newest release .apk to get started!
 
