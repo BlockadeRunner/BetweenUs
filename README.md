@@ -8,7 +8,7 @@ Must be run on Pixel 6 Hardware or newer.
 Requires API 33 Tiramisu or newer. 
 
 ## Developers:
-Lead Developer/Tester/Debugger: Alex Longo
-Co-Developer: Rushika Devineni (https://github.com/rdev610)
-Co-Developer: Daniel Han
-Co-Developer: Grishma Baruah
+Lead Developer/Tester/Debugger: Alex Longo  
+Co-Developer: Rushika Devineni (https://github.com/rdev610)  
+Co-Developer: Daniel Han  
+Co-Developer: Grishma Baruah  
