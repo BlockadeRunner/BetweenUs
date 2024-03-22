@@ -1,14 +1,8 @@
-# betweenus
-trying to meet your friends in the middle? With BetweenUs you CAN meet your friends in the middle! BetweenUs helps you find locations to hang out that are in the middle of 
-is here to make it possible to find fun locations to hang that are in the middle! With the option to choose between miles and kilometers, BetweenUs makes it easy to find middle places worldwide!
+# BetweenUs
+Trying to meet your friends in the middle? With BetweenUs you CAN meet your friends at the optimal location that is equidistant from each of you! 
 
-Features: 
-Works in all countries
-In the growing digital age, it is more common to have friends that are in a different country than you. BetweenUs
-Will be able to choose between miles or kilometers 
+Download are newest release .apk to get started!
 
-
-Uses your location 
-Having your precise location will allow for better accuracy in finding ideally middle locations! 
-Can see a list of locations based on categories (food & drink, gas, etc.)
-BetweenUs wants you to have the choice 
+## System Requirements
+Must be run on Pixel 6 Hardware or newer.
+Requires API 33 Tiramisu or newer. 
