@@ -1,7 +1,7 @@
 # BetweenUs
 Trying to meet your friends in the middle? With BetweenUs you can meet your friends at the optimal location that is equidistant from each of you! 
 
-Download our newest release .apk to get started!
+Download our newest release .apk to get started!  
 https://github.com/BlockadeRunner/BetweenUs/releases/download/v0.2.0-alpha/BetweenUs.apk  
 
 ## System Requirements
